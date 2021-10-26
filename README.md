@@ -2,9 +2,9 @@
 
  ### About me
 
- - **Working:** Senior developer, System engineer & Project Manager at [IFAC](https://ifac.edu.br/)
+ - **Working:** Senior developer, Systems engineer & Project Manager at [IFAC](https://ifac.edu.br/)
  - **Learning:** Djago-Unicorn | Boostrap5 | TypeScript
- - **Education:** B.S in Information Systems (2014)
+ - **Education:** B.S in Information Systems (2014), Specialist in Systems Engineering (2017)
  - **Hobbies:** RTS Games | Home Automation | Time Travel, especially the renaissance
  - **How to reach me**: Send a crow to giuliano [at] cardoso.work and wait for futher instructions
  - **😄 Pronouns:** He/His
