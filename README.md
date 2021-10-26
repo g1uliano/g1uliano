@@ -3,7 +3,7 @@
  ### About me
 
  - **Working:** Senior developer, System engineer & Project Manager at [IFAC](https://ifac.edu.br/)
- - **Learning:** Djago-Unicorn | Microservices | Design patterns | Improving knowledge in technologies that I already know and use daily
+ - **Learning:** Djago-Unicorn | Boostrap5 | TypeScript
  - **Education:** B.S in Information Systems (2014)
  - **Hobbies:** RTS Games | Home Automation | Time Travel, especially the renaissance
  - **How to reach me**: Send a crow to giuliano [at] cardoso.work and wait for futher instructions
