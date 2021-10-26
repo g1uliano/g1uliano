@@ -6,7 +6,7 @@
  - **Learning:** Djago-Unicorn | Microservices | Design patterns | Improving knowledge in technologies that I already know and use daily
  - **Education:** B.S in Information Systems (2014)
  - **Hobbies:** RTS Games | Home Automation | Travel
- - **How to reach me**: giuliano at cardoso.work
+ - **How to reach me**: giuliano [at] cardoso.work and wait for futher instructions
  - **😄 Pronouns:** He/His
  - **Fun fact:**  Pineapple works as a natural meat tenderizer.
  
