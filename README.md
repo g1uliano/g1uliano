@@ -2,7 +2,7 @@
 
  ### About me
 
- - **Working:** Senior developer & Project Manager at [IFAC](https://ifac.edu.br/)
+ - **Working:** Senior developer, System engineer & Project Manager at [IFAC](https://ifac.edu.br/)
  - **Learning:** Djago-Unicorn | Microservices | Design patterns | Improving knowledge in technologies that I already know and use daily
  - **Education:** B.S in Information Systems (2014)
  - **Hobbies:** RTS Games | Home Automation | Time Travel, especially the renaissance
