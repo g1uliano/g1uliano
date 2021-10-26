@@ -1,4 +1,4 @@
-<h1 align="center">#include <welcome.h> void main(void) { printf("Hello Fellow C0d3r"); }<br/></h1>
+<h1 align="center">printf("Hello Fellow C0d3r");<br/></h1>
 
  ### About me
 
